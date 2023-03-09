@@ -15,4 +15,4 @@ c. Run the container using the Docker image.
 
 d. Mapping ports from container on to the host machine.
 
-f. Verify the Tomcat server is running and show us the default webpage (hello.jsp) of the webapp.
+f. Verify the Tomcat server is running and show us the default webpage (hello.jsp) of the webapp....
